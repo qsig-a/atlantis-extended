@@ -1,2 +1,5 @@
 # atlantis-extended
-Small repo for extending the tools in the atlantis Dockerfile
+To provide a docker image for use with Atlantis that adds extra functionality:
+•	Terragrunt
+•	TFSec
+•	Terragrunt-Atlantis Config Tool
